@@ -13,5 +13,5 @@
 不是说所有这些新功能都很好, 但是合理使用这些功能特性确实可以简化代码结构和更加方便地实现某些特定需求.</br></br>
 官方使用Kotlin开发Android的说明文档https://developer.android.com/kotlin/get-started.html    </br>
 中文版Kolton文档  https://huanglizhuo.gitbooks.io/kotlin-in-chinese/content/   </br>
-https://kotlinlang.org/docs/reference/basic-types.html    (官文)</br>
-https://panxl6.gitbooks.io/kotlin-in-action-in-chinese/content/welcome.html
+https://kotlinlang.org/docs/reference/basic-types.html    (官--文)</br>
+https://panxl6.gitbooks.io/kotlin-in-action-in-chinese/content/welcome.html   </br>
